@@ -44,7 +44,7 @@ Right now I’m building **Sparki**, a veterinary operations platform shaped aro
 
 ## /current-build
 
-### 🐶🩺 Sparki
+### 🐶🩺 [Sparki](https://github.com/jakefr7/sparki-preview)
 
 A veterinary operations platform built from the workflow outward.
 
